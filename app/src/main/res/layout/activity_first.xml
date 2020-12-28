@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCD2CE"
+    android:gravity="center|center_vertical"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edit_enter_text"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:background="#fff"
+        android:padding="15dp"
+        android:textColor="#000" />
+
+    <Button
+        android:id="@+id/generate_btn_sha"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center|center_vertical"
+        android:layout_margin="20dp"
+        android:background="#3B3C3A"
+        android:padding="10dp"
+        android:text="Generate SHA"
+        android:textColor="#fff"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/java_sha_textv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textColor="#0B27BA"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/ndk_sha_textv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textColor="#B51010"
+        android:textSize="18dp" />
+
+</LinearLayout>

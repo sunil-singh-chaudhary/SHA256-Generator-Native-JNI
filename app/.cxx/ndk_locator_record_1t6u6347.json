@@ -1,0 +1,11 @@
+{
+  "ndk": "D:\\android-ndk-r10d\\android-ndk-r10d",
+  "revision": {
+    "mMajor": 21,
+    "mMinor": 3,
+    "mMicro": 6528147,
+    "mPreview": 0,
+    "mPrecision": "MICRO",
+    "mPreviewSeparator": " "
+  }
+}

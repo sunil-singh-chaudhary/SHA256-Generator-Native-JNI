@@ -1,0 +1,764 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-18\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-19-1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google-19\u0027 in inconsistent location \u0027D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-19-1\u0027 (Expected \u0027D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-19\u0027)",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-23\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-24\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\add-ons\\addon-google_apis-google-8\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\19.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\19.1.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\20.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\21.1.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\21.1.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\22.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\22.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\23.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\23.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\23.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\23.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\24.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\24.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\24.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\24.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\25.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\25.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\25.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\25.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\26.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\26.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\26.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\26.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\27.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\27.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\27.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\27.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\28.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\28.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\28.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\28.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\29.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\29.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\29.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\29.0.3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\30.0.0\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\30.0.1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\build-tools\\30.0.2\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: D:\\android-studio\\sdk\\sdk\\build-tools\\android-4.4W",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\cmdline-tools\\latest\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\docs\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\emulator\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\android\\m2repository\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\android\\support\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\auto\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\google_play_services\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\google_play_services_froyo\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\instantapps\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\m2repository\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\market_apk_expansion\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\market_licensing\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\play_apk_expansion\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\play_billing\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\play_licensing\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\simulators\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\usb_driver\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\google\\webdriver\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout-solver\\1.0.0-alpha4\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout-solver\\1.0.0-alpha9\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout-solver\\1.0.0-beta4\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout-solver\\1.0.0-beta5\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout\\1.0.0-alpha4\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout\\1.0.0-alpha9\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout\\1.0.0-beta4\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout\\1.0.0-beta5\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\ndk\\21.1.6352462\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\ndk\\21.3.6528147\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\patcher\\v4\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platform-tools\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-10\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-15\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-16\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-17\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-18\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-19\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-21\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-22\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-23\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-24\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-25\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-26\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-27\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-28\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-29\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-3\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-30\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\android-8\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\platforms\\platform-tools\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027platform-tools\u0027 in inconsistent location \u0027D:\\android-studio\\sdk\\sdk\\platforms\\platform-tools\u0027 (Expected \u0027D:\\android-studio\\sdk\\sdk\\platform-tools\u0027)",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "Already observed package id \u0027platform-tools\u0027 in \u0027D:\\android-studio\\sdk\\sdk\\platform-tools\u0027. Skipping duplicate at \u0027D:\\android-studio\\sdk\\sdk\\platforms\\platform-tools\u0027",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\samples\\android-19\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\samples\\android-20\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\samples\\android-23\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\skiaparser\\1\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-22\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-23\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-24\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-25\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-26\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-27\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-28\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-29\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\sources\\android-30\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-18\\default\\armeabi-v7a\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-24\\android-tv\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-25\\android-tv\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-26\\android-tv\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-26\\android-wear\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-27\\google_apis\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-28\\google_apis\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\system-images\\android-29\\google_apis_playstore\\x86\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\android-studio\\sdk\\sdk\\tools\\package.xml",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027D:\\android-studio\\sdk\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\therock\\Desktop\\jni-android-sha-256-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  }
+]

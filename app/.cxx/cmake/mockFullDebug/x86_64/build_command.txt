@@ -1,0 +1,21 @@
+                Executable : D:\android-studio\sdk\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\therock\Desktop\jni-android-sha-256-master\app\src\main\cpp
+-DCMAKE_FIND_ROOT_PATH=C:\Users\therock\Desktop\jni-android-sha-256-master\app\.cxx\cmake\mockFullDebug\prefab\x86_64\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\android-ndk-r10d\android-ndk-r10d\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=D:\android-ndk-r10d\android-ndk-r10d
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=D:\android-ndk-r10d\android-ndk-r10d
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\therock\Desktop\jni-android-sha-256-master\app\build\intermediates\cmake\mockFullDebug\obj\x86_64
+-DCMAKE_MAKE_PROGRAM=D:\android-studio\sdk\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-BC:\Users\therock\Desktop\jni-android-sha-256-master\app\.cxx\cmake\mockFullDebug\x86_64
+-GNinja
+jvmArgs : 
+
+Build command args:
